@@ -1,0 +1,10 @@
+1 ahþap 6 kg 10 beyaz
+2 metal 7 kg 10 siyah
+3 civa 8 lt 40 mavi
+4 boya 10 lt 40 pembe
+5 tahta 20 kg 70 mor
+6 beton 15 kg 40 sarý
+7 çelik 14 kg 55 yesil
+8 kum 17 kg 30 turuncu
+9 kireç 65 kg 60 kýrmýzý
+10 asmolen 18 kg 30 fusya
